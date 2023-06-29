@@ -1,0 +1,7 @@
+body {
+    background-color: #dfdfdf;
+}
+img{
+    width: 600px;
+    mix-blend-mode: color-burn;
+}
